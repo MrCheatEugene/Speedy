@@ -1,0 +1,1 @@
+{"localhost": {"ssl_cert": "./cert.pem", "ssl_key": "./key.pem", "www": "./www", "hostname": "localhost", "forbidden": "./www/forbidden", "id": "www"}}
